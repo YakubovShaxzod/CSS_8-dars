@@ -1,0 +1,93 @@
+.wrap{
+    width: 1200px;
+    margin: 50px 400px;
+}
+.form-group{
+    background-color: #242d34;
+    border-radius: 5px;
+    width: 500px;
+    height: 480px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1.2rem 1.5rem;
+    box-sizing: border-box;
+    float: left;
+
+}
+.a{
+    width: 45%;
+    padding: 0.8rem;
+    background-color: #1AB188;
+    color: white;
+    border: 1px;
+    float: left;
+    margin-left: 20px;
+
+}
+.b{
+    width: 45%;
+    padding: 0.8rem;
+    background-color: #474e55;
+    color: white;
+    border: 1px;
+    float: left;
+
+}
+.g{
+    color: white;
+    text-align: center;
+    margin-left: 0;
+    font-size: 30px;
+    padding-top: 80px;
+
+}
+.c{
+    width: 39%;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    margin-left: 20px;
+    background-color: #242d34;
+    color: #cccccc;
+
+}
+.d{
+    width: 39%;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    background-color: #242d34;
+    margin-left:3%;
+    color: #cccccc;
+
+}
+.e{
+    width: 86%;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    background-color: #242d34;
+    margin-top: 7%;
+    margin-left: 4%;
+    color: #cccccc;
+
+}
+.f{
+    width: 86%;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    background-color: #242d34;
+    margin-top: 7%;
+    margin-left: 4%;
+    color: #cccccc;
+}
+button{
+    width: 90%;
+    padding: 1rem;
+    border: 1px solid transparent;
+    background-color: #1AB188;
+    margin-top: 6%;
+    margin-left: 4%;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
